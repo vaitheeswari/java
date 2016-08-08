@@ -10,10 +10,10 @@ if(l>10&&l<50)
 {
 	if(b%2!=0)
 
-System.out.println(b+"is even number");
+System.out.println(b+"is odd number");
 else
 
-System.out.println(b+"is not even number");
+System.out.println(b+"is not odd number");
 }
 }
 }
