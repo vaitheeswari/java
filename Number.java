@@ -1,16 +1,19 @@
 import java.util.Scanner;
 class Number
 {
-           public static void main(String[] arg)
-           {
-           int a;
-           Scanner in=new Scanner(System in);
-      
-           a=in.nextInt();
-            System.out.println("enter the numbers:");
-            if(a>=0)
-            System.out.println(n + "number is positive");
-            else(a<0)
-           System.out.println(n + "number is negative");
-           }
+public static void main(String[],arg)
+{
+int b,n;
+Scanner in=new Scanner(System.in);
+b=in.nextInt();
+if(l>10&&l<50)
+{
+	if(a%2!=0)
+
+System.out.println(b+"is odd number");
+else
+
+System.out.println(b+"is not odd number");
+}
+}
 }
