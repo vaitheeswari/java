@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Number
+class Numb
 {
 public static void main(String[],arg)
 {
